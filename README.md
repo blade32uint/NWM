@@ -27,6 +27,7 @@ OpenSUSE
 Installation
 ------------
 clone this repo to your home folder
+  
   cd && git clone https://github.com/blade32uint/NWM
 
 Change working directory to the DWM folder
